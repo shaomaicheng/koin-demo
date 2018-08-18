@@ -7,7 +7,6 @@ koin的github README cp一份过来
 
 ---------------------------------------
 
-![logo](./img/banner_2000.png)
 
 ## What is KOIN?
 
